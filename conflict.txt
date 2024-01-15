@@ -1,0 +1,500 @@
+   57  cd temp_locobuzz/
+   58  ls -l
+   59  cd temp/
+   60  ls -l
+   61  ls --help
+   62  cd desktop
+   63  ls-a
+   64  ls -a
+   65  ls -l
+   66  ls -h
+   67  ls
+   68  cd locobuzz
+   69  cd temp_locobuzz/
+   70  ls
+   71  cd temp/
+   72  ls
+   73  ls-h
+   74  ls -h
+   75  ls -l
+   76  ls -r
+   77  ls -t
+   78  ls -S
+   79  ls -R
+   80  cd ..
+   81  ls -R
+   82  cd ..
+   83  ls -R
+   84  ls -d
+   85  cd ..
+   86  ls -d
+   87  ls -F
+   88  ls -i
+   89  ls -s
+   90  ls --color
+   91  ls -R
+   92   ls -lhS
+   93  ls -alt
+   94  ls -R/home
+   95  History
+   96  HISTORY
+   97  history
+   98  history > ls_flag commands.txt
+   99  history > ls_flag.txt
+  100  cat ls_flag.txt
+  101  ls -a
+  102  ls -A
+  103  ls --author
+  104  ls -b
+  105  ls -B
+  106  ls -c
+  107  ls -C
+  108  ls -d
+  109  ls
+  110  ls -d
+  111  ls -d -r
+  112  ls -d -R
+  113  ls
+  114  ls -d
+  115  ls -R
+  116  ls -l
+  117  pwd
+  118  cd /
+  119  cd/
+  120  ls
+  121  cd/
+  122  cd~
+  123  cd ~
+  124  ls
+  125  cd desktop
+  126  cd ~
+  127  cd ~
+  128  cd desktop
+  129  mkdir new_dir
+  130  cd newdir
+  131  cd new_dir
+  132  touch 1.txt
+  133  touch 2.txt
+  134  touch 3.txt 4.pdf 5.pdf
+  135  ls
+  136  rm 3.txt
+  137  ls
+  138  ls |.txt
+  139  ls |txt
+  140  ls | grep .txt
+  141  ls | grep .pdf
+  142  history
+  143  ls | grep ls
+  144  u
+  145  history > s1
+  146  ls s1 | grep .ls
+  147  ls s1 | grep ls
+  148  cat s1
+  149  s1 | grep ls
+  150  history
+  151  history > ls_history | grep .ls
+  152  ls
+  153  cd ls_history 
+  154  cat ls_history
+  155  history | grep .ls > t1.txt
+  156  cat t1.txt 
+  157  cd desktop
+  158  ls
+  159  cd locobuzz
+  160  cd temp_locobuzz/
+  161  ls
+  162  cat cde
+  163  cat cde.txt 
+  164  cd ..
+  165  ls
+  166  cd temp_locobuzz/
+  167  ls
+  168  cd temp/
+  169  ls
+  170  cat
+  171  cat basic_commands.txt 
+  172  sed -n '50, 70p' basic_commands.txt 
+  173  tail -n 2 basic_commands.txt 
+  174  head -n 13 basic_commands.txt 
+  175  echo "my name is Harshit" | awk '{print $4}'
+  176  echo "my name is Harshit" | awk '{print $4}' Harshit.ap
+  177  echo "my name is Harshit.ap" | awk -F. '{print $4}'
+  178  echo "my name is Harshit.ap" | awk -F. '{print $2}'
+  179  echo "my name is Harshit.ap" | awk -F. '{print $1}'
+  180  echo "my name is Harshit,ap" | awk -F. '{print $1}'
+  181  echo "my name is Harshit,ap" | awk -F, '{print $1}'
+  182  echo "my name is Harshit.ap.ac.ad.add.adf.ds" | awk -F . '{print $1}'
+  183  echo "my name is Harshit.ap.ac.ad.add.adf.ds" | awk -F . '{print $4}'
+  184  echo "harshit"
+  185  echo "Myself .Harshit .from .SRM" | awk -F . '{print $3}'
+  186  sed -n '50,70p' basic_commands.txt 
+  187  head -n 30 basic_commands.txt 
+  188  cd desktop
+  189  mkdir day2
+  190  cd day2
+  191  nano demo1.sh
+  192  ./demo1.sh
+  193  nano sum.sh
+  194  ./sum.sh
+  195  nano sum.sh
+  196  ./sum.sh
+  197  nano sum.sh
+  198  ./num.sh
+  199  ./sum.sh
+  200  nano sum.sh
+  201  ./sum.sh
+  202  nano sum.sh
+  203  ./sum.sh
+  204  nano sum.sh
+  205  ./sum.sh
+  206  nano sum.sh
+  207  ./sum.sh
+  208  nano sum.sh
+  209  ./sum.sh
+  210  nano sum.sh
+  211  ./sum.sh
+  212  nano sum.sh
+  213  ./sum.sh
+  214  nano diff.sh
+  215  ./diff.sh
+  216  nano mul.sh
+  217  ./mul.sh
+  218  nano mul.sh
+  219  ./mul.sh
+  220  nano div.sh
+  221  ./div.sh
+  222  nano calculator.sh
+  223  ./calculator.sh
+  224  nano calculator.sh 
+  225  ./calculator.sh
+  226  nano calculator.sh 
+  227  ./calculator.sh
+  228  nano calculator.sh
+  229  ./calculator.sh
+  230  echo line1 \n line2
+  231  echo "line1 \nline2"
+  232  echo $'line1 \n line2'
+  233  echo $'line1 \nline2'
+  234  touch uc1.sh
+  235  nano uc1.sh
+  236  ./uc1.sh
+  237  nano uc1.sh
+  238  ./uc1.sh
+  239  nano uc1.sh
+  240  nano calculator.sh 
+  241  nano uc1.sh
+  242  ./uc1.sh
+  243  nano uc1.sh
+  244  ./uc1.sh
+  245  nano uc1.sh
+  246  nano uc1.sh
+  247  ./uc1.sh
+  248  ./uc1.sh
+  249  ./uc1.sh
+  250  ./uc1.sh
+  251  ./uc1.sh
+  252  ./uc1.sh
+  253  cd desktop
+  254  nano uc1.sh
+  255  ls
+  256  cd day2/
+  257  ls
+  258  nano uc1.sh
+  259  touch uc2.sh
+  260  nano uc2.sh
+  261  mkdir day1
+  262  mv locobuzz day1
+  263  cd locobuzz
+  264  cd ..
+  265  mv locobuzz day1
+  266  cd day1
+  267  git init
+  268  git status
+  269  git add .
+  270  git status
+  271  git commit -n "[Harshit] Add: Added folders and files"
+  272  git commit -m "[Harshit] Add: Added folders and files"
+  273  git log -- oneline
+  274  git log --oneline
+  275  git log
+  276  git branch -m main
+  277  git remote add origin https://github.com/hp222015/Locobuzz-day3.git
+  278  git push --all
+  279  git push -- all
+  280  git push --all
+  281  git status
+  282  cd ..
+  283  cd day2/
+  284  ls
+  285  cd day1/
+  286  ls
+  287  ls
+  288  cd ..
+  289  nano uc2.sh
+  290  ./uc2.sh
+  291  touch uc3.sh
+  292  cd ..
+  293  ls
+  294  cd day1/
+  295  ls
+  296  git log
+  297  touch a1.sh
+  298  nano a1.sh 
+  299  git status
+  300  git add a1.sh
+  301  git commit
+  302  git commit -m "[Harshit] Add:made new file"
+  303  git log
+  304  nano a1.sh
+  305  cat a1.sh
+  306  git stash
+  307  cat
+  308  cat a1.sh
+  309  ls
+  310  touch a2.txt
+  311  gti checkout -b a2.txt 
+  312  git checkout -b a2.txt
+  313  git checkout  a2.txt
+  314  git checkout  a.txt
+  315  git checkout -b a3.txt
+  316  git branch a4
+  317  git branch
+  318  git checkout a4
+  319  git branch
+  320  git status
+  321  git checkout a1.sh
+  322  git checkout main
+  323  git status
+  324  git checkout a4
+  325  git checkout a3.txt
+  326  git checkout -b abc
+  327  nano abc
+  328  git status
+  329  git add abc
+  330  git commit -m "[Harshit] Add: added files"
+  331  git checkout main
+  332  git pull
+  333  git merge abc
+  334  git pull origin main
+  335  git push --all
+  336  git checkout abc
+  337  nano abc
+  338  git status
+  339  git add abc
+  340  git commit -m "[Harshit] Add: made changes in local"
+  341  git checkout main
+  342  git pull
+  343  cat abc
+  344  git pull origin main
+  345  cat abc
+  346  git merge abc
+  347  nano abc
+  348  git status
+  349  git add abc
+  350  git commit -m "[Harshit] Resolve:resolved"
+  351  git push abc origin main
+  352  cd desktop
+  353  ls
+  354  cd day2/
+  355  ls
+  356  uc3.sh
+  357  nano uc3.sh
+  358  cd desktop
+  359  ls
+  360  cd day2/
+  361  ls
+  362  nano uc3.sh
+  363  ./uc3.sh
+  364  nano uc3.sh
+  365  ./uc3.sh
+  366  nano uc3.sh
+  367  ./uc3.sh
+  368  ./uc3.sh
+  369  ./uc3.sh
+  370  ./uc3.sh
+  371  ./uc3.sh
+  372  ./uc3.sh
+  373  ./uc3.sh
+  374  ./uc3.sh
+  375  ./uc3.sh
+  376  ./uc3.sh
+  377  ./uc3.sh
+  378  ./uc3.sh
+  379  ./uc3.sh
+  380  ./uc3.sh
+  381  ./uc3.sh
+  382  ./uc3.sh
+  383  ./uc3.sh
+  384  ./uc3.sh
+  385  ./uc3.sh
+  386  ./uc3.sh
+  387  ./uc3.sh
+  388  ./uc3.sh
+  389  ./uc3.sh
+  390  ./uc3.sh
+  391  ./uc3.sh
+  392  ./uc3.sh
+  393  ./uc3.sh
+  394  ./uc3.sh
+  395  ./uc3.sh
+  396  ./uc3.sh
+  397  ./uc3.sh
+  398  ./uc3.sh
+  399  ./uc3.sh
+  400  nano uc3.sh
+  401  ./uc3.sh
+  402  ./uc3.sh
+  403  ./uc3.sh
+  404  ./uc3.sh
+  405  ./uc3.sh
+  406  ./uc3.sh
+  407  ./uc3.sh
+  408  ./uc3.sh
+  409  ./uc3.sh
+  410  ./uc3.sh
+  411  ./uc3.sh
+  412  ./uc3.sh
+  413  ./uc3.sh
+  414  ./uc3.sh
+  415  ./uc3.sh
+  416  ./uc3.sh
+  417  ./uc3.sh
+  418  ./uc3.sh
+  419  ./uc3.sh
+  420  ./uc3.sh
+  421  ./uc3.sh
+  422  ./uc3.sh
+  423  ./uc3.sh
+  424  ./uc3.sh
+  425  ./uc3.sh
+  426  ./uc3.sh
+  427  ./uc3.sh
+  428  ./uc3.sh
+  429  ./uc3.sh
+  430  ./uc3.sh
+  431  ./uc3.sh
+  432  ./uc3.sh
+  433  ./uc3.sh
+  434  ./uc3.sh
+  435  ./uc3.sh
+  436  ./uc3.sh
+  437  ./uc3.sh
+  438  ./uc3.sh
+  439  nano uc3.sh
+  440  ./uc3.sh
+  441  ./uc3.sh
+  442  ./uc3.sh
+  443  ./uc3.sh
+  444  ./uc3.sh
+  445  ./uc3.sh
+  446  ./uc3.sh
+  447  ./uc3.sh
+  448  ./uc3.sh
+  449  ./uc3.sh
+  450  ./uc3.sh
+  451  ./uc3.sh
+  452  ./uc3.sh
+  453  ./uc3.sh
+  454  ./uc3.sh
+  455  ./uc3.sh
+  456  ./uc3.sh
+  457  ./uc3.sh
+  458  ./uc3.sh
+  459  ./uc3.sh
+  460  ./uc3.sh
+  461  ./uc3.sh
+  462  ./uc3.sh
+  463  ./uc3.sh
+  464  nano uc3.sh
+  465  ./uc3.sh
+  466  ./uc3.sh
+  467  echo $RANDOM
+  468  echo $RANDOM
+  469  nano uc3.sh 
+  470  ./uc3.sh
+  471  ./uc3.sh
+  472  ./uc3.sh
+  473  ./uc3.sh
+  474  nano uc3.sh
+  475  ./uc3.sh
+  476  ./uc3.sh
+  477  ./uc3.sh
+  478  touch uc4.sh
+  479  nano uc4.sh
+  480  ./uc4.sh
+  481  nano uc4.sh
+  482  ./uc4.sh
+  483  ./uc4.sh
+  484  nano uc4.sh
+  485  touch uc5.sh
+  486  nano uc5.sh
+  487  ./uc5.sh
+  488  nano uc5.sh
+  489  ./uc5.sh
+  490  nano uc5.sh
+  491  ./uc5.sh
+  492  nano uc5.sh
+  493  ./uc5.sh
+  494  ./uc5.sh
+  495  touch uc6.sh
+  496  nano uc6.sh
+  497  ./uc6.sh
+  498  ./uc6.sh
+  499  ./uc6.sh
+  500  ./uc6.sh
+  501  ./uc6.sh
+  502  ./uc6.sh
+  503  ./uc6.sh
+  504  ./uc6.sh
+  505  git init
+  506  git status
+  507  git add .
+  508  git status
+  509  git commmit-m "[Harshit] Add: Adding multiple Files"
+  510  git commit-m "[Harshit] Add: Adding multiple Files"
+  511  git commit-m "[Harshit] Add: Adding multiple Files"
+  512  git commit -m "[Harshit] Add: Adding multiple Files"
+  513  git branch -M main
+  514  git remote add origin https://github.com/hp222015/Locobuzz_day2
+  515  git pull
+  516  git push -u origin main
+  517  git pull
+  518  git push -u origin main
+  519  git log
+  520  git status
+  521  git fetch origin
+  522  git push -u origin main
+  523  git push -f origin main
+  524  git checkout -b branch1
+  525  nano new.txt
+  526  git status
+  527  git add .
+  528  git commit -m "[Harshit] Add: Added a new file"
+  529  git checkout main
+  530  git pull
+  531  git merge branch1
+  532  git push --all
+  533  git checkout branch1
+  534  ls
+  535  nano new.txt
+  536  git status
+  537  git add .
+  538  git commit -m "[Harshit] Update: Updated file"
+  539  git checkout main
+  540  git pull
+  541  git merge branch1
+  542  nano new.txt
+  543  git push --all
+  544  nano new.txt
+  545  git pull
+  546  git merge branch1
+  547  git push --all
+  548  git merge origin/main
+  549  nano new.txt
+  550  git commit -m "[Harshit] Resolved: Resolved merge conflict"
+  551  nano new.txt
+  552  git status
+  553  git add .
+  554  git commit -m "[Harshit] Resolved: Resolved merge conflict"
+  555  git push --all
+  556  history > conflict.txt
